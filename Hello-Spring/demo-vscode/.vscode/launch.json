@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoVscodeApplication<demo-vscode>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.demovscode.DemoVscodeApplication",
+            "projectName": "demo-vscode",
+            "args": ""
+        }
+    ]
+}
